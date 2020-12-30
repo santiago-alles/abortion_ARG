@@ -37,4 +37,4 @@ Special characters may appear in string variables (e.g., name and last name, par
 Suggested Citation
 ------------------
 
-I guess that you can cite the original Congress sources. (I barely cleaned the data before uploading it.)
+I guess that you can cite Congress' original sources. (I barely cleaned the data before uploading it.)
