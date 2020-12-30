@@ -15,8 +15,8 @@ This repository provides the roll call votes of both bills.
 The sources of this data are:
 
 <blockquote>
-House: Honorable Cámara de Diputados de la Nación, https://votaciones.hcdn.gob.ar/</br >
-Senate: Honorable Senado de la Nación, https://www.senado.gov.ar/votaciones/
+<b>House</b>: Honorable Cámara de Diputados de la Nación, https://votaciones.hcdn.gob.ar/</br >
+<b>Senate</b>: Honorable Senado de la Nación, https://www.senado.gov.ar/votaciones/
 </blockquote>
 
 Data Availability
